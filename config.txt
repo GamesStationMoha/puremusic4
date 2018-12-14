@@ -1,6 +1,6 @@
 token=NTIzMjE2MTMwOTkxNTg3MzM4.DvWSkQ.Md7hOPKBl--zesBf5lQXMKqqmTw
 owner=513260449576517665
-prefix=b
+prefix=3s
 game=Ready!
 stayinchannel=true
 songinstatus=false
